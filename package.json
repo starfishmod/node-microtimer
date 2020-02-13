@@ -1,0 +1,11 @@
+{
+  "name": "micro_timer",
+  "version": "0.0.1",
+  "gypfile": true,
+  "main": "micro_timer.js",
+  "dependencies": {
+    "nan": "^2.12.1",
+    "streaming-worker": "*",
+    "streaming-worker-sdk": "*"
+  }
+}
